@@ -1,0 +1,4 @@
+title: MAINT 2019
+markdown: kramdown
+plugins:
+  - jekyll-feed
