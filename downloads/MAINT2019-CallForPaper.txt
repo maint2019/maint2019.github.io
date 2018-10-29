@@ -60,11 +60,5 @@ Important Dates:
 Team:
 
 Workshop Organizers:
-- Roberto Minelli (Università della Svizzera italiana, Switzerland)
+- Roberto Minelli (Software Institute (USI), Switzerland)
 - Shinpei Hayashi (Tokyo Institute of Technology, Japan)
-
-Program Committee:
-- TbA
-
-Web Chair:
-- TbA
