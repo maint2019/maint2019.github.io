@@ -1,0 +1,64 @@
+*****************************************************************************
+CALL FOR PAPERS - MAINT 2019
+
+The 2nd International Workshop on Mining and Analyzing Interaction Histories
+https://maint2019.github.io/
+
+February 24, 2019, Hangzhou, China
+Co-located with SANER 2019
+*****************************************************************************
+
+While at first sight IDEs may appear as 'just' glorified text editors, they are composed of a multi-faceted set of UIs designed to support various development tasks at hand, like navigation of code entities, refactoring, and debugging. The interaction of the developer with the IDE and its UIs generates a continuous stream of events, called interaction data or interaction histories, that provides a unique valuable resource to characterize, from a quantitative point of view, the diverse mechanics of software development.
+
+The intrinsic potential of interaction histories has attracted a lot of interest in the research community. While the pioneering technique can be considered the work of Mylyn by Kersten and Murphy, in the last decade researchers developed numerous approaches to record more fine-grained events in the IDE. On top of the recorded data, researchers have been investigating how to leverage it to quantify the time spent on programming activities or understanding the mechanics of development. Furthermore, some authors started investigating how biometric data can be leveraged to characterize other perspectives on the behavior of developers, e.g., their cognitive effort through the proxy of eye movements, or their emotions and feelings during programming.
+
+This workshop aims to bring together researcher and practitioners in the area of Software Engineering that are currently studying or are interested to investigate the specific topic of interaction data. Our workshop intends to discuss a specific (but not exhaustive) set of open problems and topics in the area. These topics will be presented by candidate authors through a specific set of submission types, which include both research and position papers.
+
+The intrinsic nature and largely unexplored potential of interaction data, raise a number of issues that we believe can be addressed in the context of the MAINT workshop:
+
+- How is it possible to preserve developer and company privacy when recording interaction histories while still collecting meaningful and actionable data?
+
+- How is it possible to capture and integrate interaction data involving tools that programmers use outside the IDE (e.g., web browser, Q&A services)?
+
+- Is it possible to agree on common meta-model for interaction data so that researchers can analyze and leverage interaction data coming from different tools and IDEs?
+
+- How can interaction histories support researchers in understanding, from a qualitative point of view, the mechanics of programming?
+
+- How is it possible to identify and abstract high-level programming activities from interaction histories?
+
+- How is it possible to perform real-time analytics of interaction histories to proactively support developers during their current tasks?
+
+- Which biometric data can complement and improve the effectiveness of interaction histories?
+
+- How can interaction histories support and improve approaches like defect prediction?
+
+Topics are not limited to the list above: We also encourage authors to present their ongoing work and their own challenges. The goal of MAINT is to have a place for researchers to address the open challenges, to identify new issues, and to start new collaborations to advance the state of the art. 
+
+We solicit the following types of submissions:
+
+- Research Papers (6 pages + 2 page of references)
+- Short Papers (2 pages + 1 page of references)
+	– Position Papers aimed at sharing the authors’ opinion about the open challenges to foster discussion;
+	– Tool/Data Showcase Papers aimed at presenting tools and datasets.
+
+All submissions will go through a rigorous reviewing process where every submission will be reviewed by at least three members of the program committee. In line with SANER, also MAINT will follow a full double-blind review process.
+
+*****************************************************************************
+Submission:
+All submissions must use IEEE templates and should be submitted through EasyChair.
+http://www.easychair.org/conferences/?conf=maint2019
+
+*****************************************************************************
+Important Dates:
+- Paper submission:    December 14, 2018 AoE
+- Grace period:        December 17, 2018 AoE
+- Notifications:       January 11, 2019 AoE
+- Camera Ready:        January 22, 2019 AoE
+- Workshop:            February 24, 2019
+
+*****************************************************************************
+Team:
+
+Workshop Organizers:
+- Roberto Minelli (Software Institute (USI), Switzerland)
+- Shinpei Hayashi (Tokyo Institute of Technology, Japan)
